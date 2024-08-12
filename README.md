@@ -1,4 +1,4 @@
-Tron address(trx) generator.
+**Tron address(trx) generator**
 
 1-install libraries
 
@@ -13,9 +13,11 @@ g++ TronAddress.cpp -o TronAddress.exe -L/your/path -lsecp256k1 -lcrypto -lssl -
 
 
 
-use: ./TronAddress.exe 
+**usage: **
+
+./TronAddress.exe 
 
 
 1 coffee Address: 
 
-TXXxxku8cSRbWiMzVtod17wBtwadt4giGS
+**TXXxxku8cSRbWiMzVtod17wBtwadt4giGS**
