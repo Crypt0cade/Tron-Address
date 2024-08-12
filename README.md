@@ -13,7 +13,7 @@ g++ TronAddress.cpp -o TronAddress.exe -L/your/path -lsecp256k1 -lcrypto -lssl -
 
 
 
-**usage: **
+**usage:**
 
 ./TronAddress.exe 
 
