@@ -10,7 +10,7 @@ g++ TronAddress.cpp -o TronAddress.exe -L/your/path -lsecp256k1 -lcrypto -lssl -
 
 
 
-use: ./compile.exe 
+use: ./TronAddress.exe 
 
 
 1 coffee Address: 
