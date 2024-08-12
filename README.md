@@ -1,8 +1,11 @@
 Tron address(trx) generator.
 
-1-install libraries 
+1-install libraries
 
-2- cmake for (keccak256) 
+
+ for (keccak256) 
+ 
+2- cmake , make
 
 3- compile 
 
