@@ -1,19 +1,3 @@
-﻿agrega las siguientes funciones:
-
-1- ejemplo usar en linea de comando:
-vanitytron.exe -s "Tron" 
-
-deseo que busque aleatoriamente las direcciones que empicen con "ron" sin contar el primer caracter "T" es decir el prefijo inicial(esto puede ser elegido o cambiado cada que se ejecute el .exe)
-parametros:
--s es para buscar las palabras que coinciden al inicio del address(sin incluir prefijo T).
--e es para buscar las palabras que coinciden al final del address.
--c es caso sensitivo "mayusculass y minusculas debe coincidir", si no esta -c entonces busca coincidencias sin importar may y minusculas.
--h imprime su uso.
-
-una vez iniciada la busqueda se imprima " searching vanity"
-al encontrar se guarda en txt private key hexy  address.
-y finaliza la busqueda.
-
 #include <iostream>
 #include <random>
 #include <vector>
